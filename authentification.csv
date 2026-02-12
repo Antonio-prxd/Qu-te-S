@@ -1,0 +1,2 @@
+name,password,email,failed_login_attemps,logged_in,role
+Sacha,Bourg-Palette,utilisateur@gmail.com,0,False,utilisateur
